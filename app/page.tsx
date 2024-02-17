@@ -40,7 +40,7 @@ export default function Home() {
           <h2>
             Docs <span>-&gt;</span>
           </h2>
-          <p>Review documentation for Amplify's code-first DX (Gen 2).</p>
+          <p>Review documentation for Amplify's - Jay Bartels.</p>
         </a>
 
         <a
@@ -52,7 +52,7 @@ export default function Home() {
           <h2>
             Quickstart <span>-&gt;</span>
           </h2>
-          <p>Follow a tutorial to build a fullstack app with Amplify Gen 2.</p>
+          <p>Follow a tutorial to build a fullstack app Jay Bartels.</p>
         </a>
 
         <a
